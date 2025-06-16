@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h2>Flowers name</h2>
+
+
+<ul>
+  <li>Rose</li>
+  <li>Marigold</li>
+  <li>Tulip</li>
+  <li>Lily</li>
+  <li>Orchid</li>
+  <li>Daisy</li>
+   <li>Sunflower</li>
+   <li>Lotus</li>
+   <li>Hibiscus</li>
+   <li>Jasmine</li>
+  </ul>  
+
+
+<h2>Tourist places in Kanyakumari</h2>
+
+
+<ol>
+  <li>Kanyakumari Beach</li>
+  <li>Vivekananda Rock Memorial</li>
+  <li>Thiruvallur Statue</li>
+  <li>Lemur Beach</li>
+  <li>Padmanabhapuram Palace</li>
+  <li>Mathur Aqueduct</li>
+  <li>Thirparappu Falls</li>
+  <li>Pechiparai Dam</li>
+  <li>Marunthuvazh Malai</li>
+  <li>Kuzhithurai West</li>
+</ol> 
+<p>taste the difference, live the moment</p>
+</body>
+</html>
+
