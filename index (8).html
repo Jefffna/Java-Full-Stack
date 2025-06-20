@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Registration form</title>
+  <style>
+    ul{
+
+      list-style-type:none ;
+      margin:0;
+      padding:0;
+      background colour :blue;
+    }
+    li {
+      float:left;
+    }
+    li a {
+  display: block;
+  padding: 8px;
+}
+  </style>
+</head>
+<body style="background-color:gold;">
+  <ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+<h2>Registration Forms</h2>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="Jefna"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="M"><br>
+  <label for="adrs">Address:</label><br>
+  <input type="text" id="adrs" name="adrs" value="Maruthoorkurichi"><br>
+  <label for="DOB">Date of Birth:</label><br>
+  <input type="date" id="DOB" name="DOB" value="19-06-2004"><br>
+  <label for="email">e-mail id:</label><br>
+  <input type="text" id="email" name="email" value="jefna129@gmail.com"><br>
+  <label for="password">Set Password:</label><br>
+  <input type="text" id="password" name="password" value="jefu"><br><br>
+  <input type="submit" value="Submit"><br>
+  <a href="page1.html">Login here</a>
+</form> 
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+<p>
+  This registration form is used to collect basic personal information from users. <br>
+  Please enter your full name, email address, and date of birth to complete the registration.
+</p>
+</body>
+</html>
